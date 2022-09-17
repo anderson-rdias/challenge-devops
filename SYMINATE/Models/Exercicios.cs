@@ -20,6 +20,6 @@ namespace SYMINATE.Models
 
         [Column("QtdHoras")]
         [Display(Name = "Duração")]
-        public Int QtdHoras { get; set; }
+        public int QtdHoras { get; set; }
     }
 }
