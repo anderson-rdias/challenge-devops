@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'syminate-rm88008'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_31C1B9F222C04D63B212C12A938E1593 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E0B1218742A1427C9FC8E950D45C9C3C }}
           package: .
