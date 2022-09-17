@@ -11,7 +11,7 @@ namespace SYMINATE.Models
         public int Id { get; set; }
 
         [Column("Nome")]
-        [Display(Name = "Nome do Produto")]
+        [Display(Name = "Nome do Exercício")]
         public string Nome { get; set; }
 
         [Column("Descricao")]
